@@ -21,6 +21,7 @@ A collection of tools, apps and other stuff for using the nsite spec (NIP-5A) wh
 - [nsyte](https://github.com/sandwichfarm/nsyte) CLI deployment tool
 - [nsite-action](https://github.com/sandwichfarm/nsite-action) A Github action that deploys nsites to nostr and blossom (using nsyte)
 - [nsite debugger](https://nsite.info/debug) A tool to debug nsites.
+- [gittr](https://gittr.space) Publish nsites from your git repo, browse all nsites
 
 ## Available nsite hosts / gateways
 
@@ -29,6 +30,7 @@ A collection of tools, apps and other stuff for using the nsite spec (NIP-5A) wh
 - [nwb.tf](https://nwb.tf)
 - [nsite.run](https://nsite.run)
 - [nsite.cloud](http://nsite.cloud)
+- [pages.gittr.space](https://pages.gittr.space)
 - [shakespeare.to](https://shakespeare.to)
 
 ---
